@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+<p>Hello to the new gaming hub</p>
+ <p>They will be mutiple game in the down below</p>
+  <a href="https://www.geoguessr.com/" target="_blank">1.GeoGuessr</a>
+  <a href="https://kleki.com/" target ="_blank">2.PaintTool</a>
+  <a href="https://esanli.github.io/2048/" target = "_blank">3.Mario2048</a>
+  <a href="https://www.mathplayground.com/pg_drift_boss.html" target = "_blank">4.DriftBoss</a>
+  <a href="https://www.mathplayground.com/pg_minigolf_world.html" target = "_blank">5.MiniGolf</a>
+  <a href="https://www.chess.com/home" target = "_blank">6.Chess</a>
+  <p>Anyone wants me to add more games?</p>
+  <p>Send me the game link or name</p>
+  <p>You must use MCPSMD.net email to sent it.</p>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlKpGmQwNrfDqssVldWVCBgbWCWbGwZMPltdKhGChnSnLvLZDqNXBjtWWmjxbGDqDdDnhL" target = "_blank">My school Gmail</a>
+  <script>alert("Make sure the website is not been seen");</script>
+</body>
+</html>
